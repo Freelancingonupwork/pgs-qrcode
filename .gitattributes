@@ -1,0 +1,14 @@
+# Files to exclude when creating archive.
+
+css-dev export-ignore
+js-dev export-ignore
+node_modules export-ignore
+*.git export-ignore
+*.gitignore export-ignore
+*.gitattributes export-ignore
+Gruntfile.js export-ignore
+package.json export-ignore
+package-lock.json export-ignore
+phpcs.xml.dist export-ignore
+composer.json export-ignore
+.editorconfig export-ignore

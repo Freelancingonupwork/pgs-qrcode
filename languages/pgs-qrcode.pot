@@ -1,0 +1,76 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PGS QRCode 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2020-03-16 13:33+0530\n"
+"PO-Revision-Date: 2018-06-08 16:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: Potenza Global Solutions\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;number_format_i18n;date_i18n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:20
+msgid "PGS QR Code"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:23
+msgid ""
+"QR code generator widget. You can add this widget to sidebar to allow your "
+"users get quick access from their devices."
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:126
+msgid "Title"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:130
+msgid "Style"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:132
+msgid "Inline"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:133
+msgid "Popup"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:137
+msgid "Link Type"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:139
+msgid "Post Global Unique Identifier (guid)"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:140
+msgid "Permalink"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:144
+msgid "Image size"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:148
+msgid "Label"
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:150
+msgid "Enter label to display below QR Code. i.e. Scan the code."
+msgstr ""
+
+#: includes/class-pgs-qrcode-widget-qrcode.php:153
+msgid "Description"
+msgstr ""
